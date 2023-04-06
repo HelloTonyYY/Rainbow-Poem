@@ -10,6 +10,8 @@ I love it so much I am editing a copy as a Pull Request<strong> </p>
 
 這是我的真棒彩虹詩的回購!你肯定會喜歡的!
 
+这是我的真棒彩虹诗的回购！你肯定会喜欢的！
+
 Это репо для моей удивительной радуги поэзии! Вы определенно будете любить его!
 
 C'est un repo pour mon incroyable poésie arc-en-ciel! Tu vas vraiment l'adorer!
